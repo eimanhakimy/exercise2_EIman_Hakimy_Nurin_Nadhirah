@@ -1,1 +1,7 @@
-# exercise2
+# exercise 2 
+
+Name : MUHD EIMAN HAKIMY BIN SHAHRUM
+Matric : B20EC0032
+
+Name : NURIN NADHIRAH NASRIN BT KAMRISHAM
+Matric : B20EC0042
